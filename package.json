@@ -1,5 +1,5 @@
 {
-  "name": "baileys",
+  "name": "aluxiBaileys",
   "version": "6.8.1",
   "description": "WhatsApp API",
   "keywords": [
@@ -10,7 +10,10 @@
     "whatsapp-chat",
     "whatsapp-group",
     "automation",
-    "multi-device"
+    "multi-device",
+    "bail",
+    "baileys",
+    "wa-web"
   ],
   "homepage": "https://github.com/WhiskeySockets/Baileys",
   "repository": {
